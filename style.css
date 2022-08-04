@@ -1,0 +1,35 @@
+
+body{
+    /* Desktop - 1 */
+
+    position: relative;
+    width: 1440px;
+    height: 1024px;
+
+    background: #1B1464;
+}
+
+.main_title h1{
+
+    /* WELCOME TO MY GITHUB PAGES */
+
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    width: 331px;
+    height: 82px;
+    left:50%;
+    top: 111px;
+
+    font-family: 'Overpass Mono';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 46px;
+    text-align: center;
+
+    color: #FFFFFF;
+
+ 
+
+}
